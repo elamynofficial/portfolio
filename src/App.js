@@ -8,7 +8,7 @@ import portfolio from "./assets/images (10).png";
 import database from "./assets/4091.jpg";
 import uiux from "./assets/mobile-ui-ux-concept-illustration_114360-10976.jpg";
 import web from "./assets/programming-concept-illustration_114360-1351.jpg";
-import contact from "./components/contact.js";
+import contact from "./components/contact.jsx";
 
 
 
